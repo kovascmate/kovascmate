@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @kovascmate
+- 🌱 I'm currently studying to be an IT engineer
