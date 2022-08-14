@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @kovascmate
 - 🌱 I'm currently studying to be an IT engineer
-- :round_pushpin::hungary: Budapest
+- :round_pushpin: Budapest
